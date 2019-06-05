@@ -21,5 +21,9 @@
 Looks like you can mention people by username @administrator
 
 # Nexter
+Text and symbols
+
+Idea 3,
+following
 
 

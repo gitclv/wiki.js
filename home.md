@@ -6,3 +6,7 @@
 > Blockquote text
 > in multiple
 > lines
+
+- [X] Task is not done
+- [ ] Task is done
+- [ ] Nope, still not
